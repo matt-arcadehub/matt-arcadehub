@@ -1,13 +1,14 @@
 # Hi, I'm Matías Montiel 👋
 
-**Technical Artist | Tools Programmer**  
+**Technical Artist | Game Dev**  
+Tools & Pipeline · Shaders & Materials
 📍 Buenos Aires, Argentina
 
 I'm a software developer with over **12 years of professional experience**, including **5 years in technical leadership**, currently transitioning into the video game industry.
 
-I'm interested in **tools programming, technical art, stylized materials, and workflow automation**. I enjoy creating tools that help artists and developers work more efficiently.
+My focus is building artist-friendly tools and workflows, and creating stylized materials. HLSL is a learning goal.
 
-I'm currently studying **Game Design and Programming at Escuela Da Vinci**.
+I'm currently studying **Game Design and Programming at Escuela Da Vinci** in Buenos Aires, Argentina.
 
 ## 🎮 Featured Projects
 
@@ -42,8 +43,9 @@ My contributions included:
 **Game Development & Technical Art**
 
 - Unity, C#, Unity Editor API, UI Toolkit
-- Shader Graph, URP, Construct 2
+- Shader Graph, URP, Construct 2, Event Sheets
 - Custom editor tools, material workflows, and visual programming
+- HLSL (learning)
 
 **Art & Design**
 
@@ -64,7 +66,9 @@ My contributions included:
 
 ## 📬 Contact
 
+- 🌐 [Portfolio](https://matt-arcadehub.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/matiasmontiel/)
+- 🎨 [ArtStation](https://matt_artt.artstation.com/)
 - 💻 [GitHub](https://github.com/matt-arcadehub)
 - 🎮 [Itch.io](https://mattdavinci.itch.io/)
 
